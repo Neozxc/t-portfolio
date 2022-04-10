@@ -1,156 +1,101 @@
-const logotext = "JOHN";
+const logotext = "TAJUS";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Tajus Trainauskas",
+    description: "I'm Tajus Trainauskas a graphic designer, cinematographer, currently studying in Liverpool.",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I'm Tajus Trainauskas",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I love graphic design!",
+        second: "I enjoy editing stuff!",
+        third: "I create unique compositions!",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "I'm Tajus Trainauskas a graphic designer, cinematographer, currently studying in Liverpool.",
+    your_img_url: "https://cdn.discordapp.com/attachments/900177553032089621/962708974615003176/tt.jpg",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "Abit about my self",
+    aboutme: "I'm currently studying at Hugh Baird College, Creative Media and a Photoshop enthusiast. In my free time i like to explore and take nice photographs and cinematic shots.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Digital Creator",
+        where: "Liverpool, UK",
+        date: "2022",
     },
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
+        name: "Adobe Photoshop CC",
+        value: 100,
     },
     {
-        name: "Djano",
+        name: "Blender",
         value: 85,
     },
     {
-        name: "Javascript",
+        name: "Adobe After Effects",
+        value: 83,
+    },
+    {
+        name: "Adobe Premiere Pro",
         value: 80,
     },
     {
-        name: "React",
-        value: 60,
-    },
-    {
-        name: "Jquery",
-        value: 85,
+        name: "Adobe Illustrator CC",
+        value: 70,
     },
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Photoshop Manipulation & Digital Art",
+        description: "No matter what photo manipulation you need: head replacement, creative digital drawing or surreal photo manipulation services, i will help you within several working days.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "3D Animation",
+        description: "I have plenty of experience working in areas related to 3D modeling and animation. I do DETAILED ORIENTED 3D Modeling thriving to address and meet your specific needs. ",
     },
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://cdn.discordapp.com/attachments/900177553032089621/962716956497174568/unnamed_4.jpg",
+        desctiption: "An imposter outside of the Chamber 'Money Heist Concept'!",
+        link: "https://cdn.discordapp.com/attachments/900177553032089621/962716956497174568/unnamed_4.jpg",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://cdn.discordapp.com/attachments/900177553032089621/962716955553460234/unnamed_2.jpg",
+        link: "https://cdn.discordapp.com/attachments/900177553032089621/962716955553460234/unnamed_2.jpg",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://cdn.discordapp.com/attachments/900177553032089621/962716957306658837/unnamed_1.jpg",
+        desctiption: "'Back to the Future Room Concept' from Scratch!",
+        link: "https://cdn.discordapp.com/attachments/900177553032089621/962716957306658837/unnamed_1.jpg",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://cdn.discordapp.com/attachments/900177553032089621/962716956773994536/unnamed.jpg",
+        desctiption: "'A Mustang against a Spaceship Concept' from Scratch!",
+        link: "https://cdn.discordapp.com/attachments/900177553032089621/962716956773994536/unnamed.jpg",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://cdn.discordapp.com/attachments/900177553032089621/962716956170010684/unnamed_3.jpg",
+        desctiption: "A dark setting on a foggy night outside NYC Concept from Scratch!",
+        link: "https://cdn.discordapp.com/attachments/900177553032089621/962716956170010684/unnamed_3.jpg",
     },
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "ttsproductionss@gmail.com",
+    YOUR_FONE: "+44 7341364146",
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
-    youtube: "https://youtube.com",
-    twitch: "https://twitch.com",
+    twitter: "https://twitter.com/ttsproductions_",
+    instagram: "https://instagram.com/ttsproductions_",
+    tiktok: "https://www.tiktok.com/@ttsproductions",
 };
 export {
     meta,
