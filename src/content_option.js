@@ -7,11 +7,11 @@ const meta = {
 const introdata = {
     title: "I'm Tajus Trainauskas",
     animated: {
-        first: "I love graphic design!",
-        second: "I enjoy editing stuff!",
-        third: "I create unique compositions!",
+        first: "I love digital art!",
+        second: "I enjoy 3D animating!",
+        third: "I produce unique compositions!",
     },
-    description: "I'm Tajus Trainauskas a graphic designer, cinematographer, currently studying in Liverpool.",
+    description: "I'm Tajus Trainauskas a digital artist, cinematographer, currently studying in Liverpool.",
     your_img_url: "https://cdn.discordapp.com/attachments/900177553032089621/962708974615003176/tt.jpg",
 };
 
@@ -81,6 +81,16 @@ const dataportfolio = [{
         img: "https://cdn.discordapp.com/attachments/900177553032089621/962716956170010684/unnamed_3.jpg",
         desctiption: "A dark setting on a foggy night outside NYC Concept from Scratch!",
         link: "https://cdn.discordapp.com/attachments/900177553032089621/962716956170010684/unnamed_3.jpg",
+    },
+    {
+        img: "https://i.imgur.com/YlswMkY.jpg",
+        desctiption: "'Good or Bad Knight?' Moonknight Concept!",
+        link: "https://i.imgur.com/YlswMkY.jpg",
+    },
+    {
+        img: "https://i.imgur.com/VFpyGai.jpg",
+        desctiption: "'What if Thor was Venom?' Venom x Thor Concept!",
+        link: "https://i.imgur.com/VFpyGai.jpg",
     },
 ];
 
