@@ -7,17 +7,17 @@ const meta = {
 const introdata = {
     title: "I'm Tajus Trainauskas",
     animated: {
-        first: "I love digital art!",
+        first: "I love Graphic Design!",
         second: "I enjoy 3D animating!",
-        third: "I produce unique compositions!",
+        third: "I produce unique designs!",
     },
-    description: "I'm Tajus Trainauskas a digital artist, cinematographer, currently studying in Liverpool.",
+    description: "Hi, I am a digital creator and graphic designer that is currently studying in Liverpool.",
     your_img_url: "https://cdn.discordapp.com/attachments/900177553032089621/962708974615003176/tt.jpg",
 };
 
 const dataabout = {
     title: "Abit about my self",
-    aboutme: "I'm currently studying at Hugh Baird College, Creative Media and a Photoshop enthusiast. In my free time i like to explore and take nice photographs and cinematic shots.",
+    aboutme: "I am currently studying Creative Media at Hugh Baird College, and I am also a Photoshop Enthusiast as you can tell by my portfolio. In my free time I enjoy to experiment with different programs to increase my knowledge with them.",
 };
 const worktimeline = [{
         jobtitle: "Digital Creator",
@@ -49,13 +49,17 @@ const skills = [{
 ];
 
 const services = [{
-        title: "Photoshop Manipulation & Digital Art",
-        description: "No matter what photo manipulation you need: head replacement, creative digital drawing or surreal photo manipulation services, i will help you within several working days.",
+        title: "Photoshop Manipulation & Digitalized Art",
+        description: "I have years of experience inside of Photoshop, so no matter what sort of Photoshop Manipulation you may require; head replacement, visual effects or any type of surreal photo manipulation services, I will get back to you within a few working days.",
     },
     {
-        title: "3D Animation",
-        description: "I have plenty of experience working in areas related to 3D modeling and animation. I do DETAILED ORIENTED 3D Modeling thriving to address and meet your specific needs. ",
+        title: "Logo & Banner Designs",
+        description: "I produce logos and banners at high quality and unlimited revisions, this is not only for you to feel happy with your Logo / Banner, it is also for me to satisfy your needs to the fullest. This service is the most effective to any businesses / content creators that are starting out or needing a revamp.",
     },
+    {
+        title: "Video Editing",
+        description: "I have high knowledge of softwares such as Adobe Premiere Pro / Adobe After Effects so any type of editing you may require, there is a high chance i can produce it. I specialise in editing YouTube videos / TV Adverts / Music Videos.  ",
+    }, 
 ];
 
 const dataportfolio = [{
@@ -84,12 +88,12 @@ const dataportfolio = [{
     },
     {
         img: "https://i.imgur.com/YlswMkY.jpg",
-        desctiption: "'Good or Bad Knight?' Moonknight Concept!",
+        desctiption: "'Nice or Evil?' Moonknight Concept!",
         link: "https://i.imgur.com/YlswMkY.jpg",
     },
     {
         img: "https://i.imgur.com/VFpyGai.jpg",
-        desctiption: "'What if Thor was Venom?' Venom x Thor Concept!",
+        desctiption: "'What if two avengers assembled in one body?' Venom x Thor Concept!",
         link: "https://i.imgur.com/VFpyGai.jpg",
     },
 ];
