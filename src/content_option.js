@@ -7,7 +7,7 @@ const meta = {
 const introdata = {
     title: "I'm Tajus Trainauskas",
     animated: {
-        first: "I love Graphic Design!",
+        first: "I love graphic design!",
         second: "I enjoy 3D animating!",
         third: "I produce unique designs!",
     },
