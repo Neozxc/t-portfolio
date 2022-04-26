@@ -54,11 +54,11 @@ const services = [{
     },
     {
         title: "Logo & Banner Designs",
-        description: "I produce high quality logos for Websites, YouTube Channels and Businesses. This type of service has unlimited revisions as then if any little details are missed then you can request me to change or add them. This type of service is the cheapest and effective towards any companies that are looking into revamping or starting their own organisation of community!",
+        description: "I produce high quality logos for Websites, YouTube Channels and Businesses. This type of service has unlimited revisions as then if any little details are missed then you can request me to change or add them. This type of service is the cheapest and effective towards any companies that are looking into revamping or starting their own organisation or community!",
     },
     {
         title: "Video Editing",
-        description: "I have high knowledge of softwares such as Adobe Premiere Pro / Adobe After Effects so any type of editing you may require, there is a high chance i can produce it. I specialise in editing YouTube videos / TV Adverts / Music Videos.  ",
+        description: "I have high knowledge of softwares such as Adobe Premiere Pro / Adobe After Effects so any type of editing you may require, there is a high chance i can produce it. I specialise in editing YouTube videos / Commercials / Music Videos.  ",
     }, 
 ];
 
