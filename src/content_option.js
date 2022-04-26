@@ -8,7 +8,7 @@ const introdata = {
     title: "I'm Tajus Trainauskas",
     animated: {
         first: "I love graphic design!",
-        second: "I enjoy 3D animating!",
+        second: "I enjoy producing commercials!",
         third: "I produce unique designs!",
     },
     description: "Hi, I am a digital creator and graphic designer that is currently studying in Liverpool.",
@@ -54,7 +54,7 @@ const services = [{
     },
     {
         title: "Logo & Banner Designs",
-        description: "I produce logos and banners at high quality and unlimited revisions, this is not only for you to feel happy with your Logo / Banner, it is also for me to satisfy your needs to the fullest. This service is the most effective to any businesses / content creators that are starting out or needing a revamp.",
+        description: "I produce high quality logos for Websites, YouTube Channels and Businesses. This type of service has unlimited revisions as then if any little details are missed then you can request me to change or add them. This type of service is the cheapest and effective towards any companies that are looking into revamping or starting their own organisation of community!",
     },
     {
         title: "Video Editing",
