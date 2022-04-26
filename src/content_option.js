@@ -8,8 +8,8 @@ const introdata = {
     title: "I'm Tajus Trainauskas",
     animated: {
         first: "I love graphic design!",
-        second: "I enjoy monster energy!",
-        third: "I produce commercials!",
+        second: "I like animating!",
+        third: "I make commercials!",
     },
     description: "Hi, I am a digital creator and graphic designer that is currently studying in Liverpool.",
     your_img_url: "https://cdn.discordapp.com/attachments/900177553032089621/962708974615003176/tt.jpg",
